@@ -1,0 +1,171 @@
+{
+  "categorias": [
+    {
+      "titulo": "Filmes",
+      "cor": "#6BD1FF",
+
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Vingadores Ultimato",
+          "url": "https://www.youtube.com/watch?v=g6ng8iy-l0U"
+        },
+        {
+          "titulo": "Harry Potter e as Reliquias da Morte Parte I",
+          "url": "https://www.youtube.com/watch?v=MxqsmsA8y5k&list=PLeQSSKeXrVRLtMJw1tgO36fRtMxX2nRn7&index=8&t=0s"
+        },
+        {
+          "titulo": "Harry Potter e o Prisioneiro de Askaban",
+          "url": "https://www.youtube.com/watch?v=1ZdlAg3j8nI&list=PLeQSSKeXrVRLtMJw1tgO36fRtMxX2nRn7&index=4&t=0s"
+        },
+        {
+          "titulo": "Senhor dos Anéis I",
+          "url": "https://www.youtube.com/watch?v=0i86oM1nHjM"
+        },
+        {
+          "titulo": "Poderoso Chefão I",
+          "url": "https://www.youtube.com/watch?v=y_-YWEot_7w"
+        }
+      ]
+    },
+    {
+      "titulo": "Jogos",
+      "cor": "#00C86F",
+      
+      "videos": [
+        {
+          "titulo": "Pokémon Fire Red",
+          "url": "https://www.youtube.com/watch?v=PH3HhkHOrEQ"
+        },
+        {
+          "titulo": "Pokémon Emerald",
+          "url": "https://www.youtube.com/watch?v=mfeuasrk1so"
+        },
+        {
+          "titulo": "Minecraft",
+          "url": "https://www.youtube.com/watch?v=MmB9b5njVbA"
+        },
+        {
+          "titulo": "PUBG",
+          "url": "https://www.youtube.com/watch?v=6FAldb21s2E"
+        },
+        {
+          "titulo": "Fortnite",
+          "url": "https://www.youtube.com/watch?v=MPDmnIKI75U"
+        }
+      ]
+    },
+    {
+      "titulo": "Data Science e Inteligência Artificial",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        }
+      ]
+    },
+    {
+      "titulo": "Programação",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        },
+        {
+          "titulo": "IA Jogando Jogo do Dinossauro do Google",
+          "url": "https://www.youtube.com/watch?v=NZlIYr1slAk&list=LLuotO4PaZ00cJj0b14CBE-g&index=7&t=0s"
+        },
+        {
+          "titulo": "React Native",
+          "url": "https://www.youtube.com/watch?v=RdcguVta_bs&t=951s"
+        }
+      ]
+    },
+    {
+      "titulo": "Chess",
+      "cor": "red",
+      
+      "videos": [
+        {
+          "titulo": "Kasparov vs Topalov",
+          "url": "https://www.youtube.com/watch?v=SmQhi10-KKk&list=LLuotO4PaZ00cJj0b14CBE-g&index=57&t=0s"
+        },
+        {
+          "titulo": "Caruana vs Dubov",
+          "url": "https://www.youtube.com/watch?v=SYmz9pvq_VQ&list=LLuotO4PaZ00cJj0b14CBE-g&index=26&t=945s"
+        },
+        {
+          "titulo": "Supi vs Carlsen",
+          "url": "https://www.youtube.com/watch?v=h9GXQPYftns&list=LLuotO4PaZ00cJj0b14CBE-g&index=12&t=0s"
+        },
+        {
+          "titulo": "Carlsen vs Caruana",
+          "url": "https://www.youtube.com/watch?v=4ajNPymlOYQ&t=408s"
+        },
+        {
+          "titulo": "Carlse vs Anand",
+          "url": "https://www.youtube.com/watch?v=6MxQdszw28Y"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
