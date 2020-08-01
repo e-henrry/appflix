@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": "1",
+            "nome": "Filmes",
+            "descrição": "Primeira categoria",
+            "cor": "#CBD1FF"
+        },
+        {
+            "id": "2",
+            "nome": "Jogos",
+            "descrição": "Segunda categoria",
+            "cor": "#CBD1FF"
+        }
+    ]
+}
