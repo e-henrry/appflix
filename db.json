@@ -13,12 +13,12 @@
     {
       "id": 3,
       "titulo": "Programação",
-      "cor": "#orange"
+      "cor": "#C74B33"
     },
     {
       "id": 4,
       "titulo": "Chess",
-      "cor": "#red"
+      "cor": "#F2A516"
     }
   ],
   "videos": [
@@ -163,14 +163,8 @@
     {
       "titulo": "Flappy Bird - Java Script",
       "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
-      "categoriaId": 1,
-      "id": 25
-    },
-    {
-      "titulo": "Flappy Bird - Java Script",
-      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
       "categoriaId": 3,
-      "id": 26
+      "id": 25
     }
   ]
 }
